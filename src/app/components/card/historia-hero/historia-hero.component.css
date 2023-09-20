@@ -1,0 +1,27 @@
+.historia-hero_container{
+    position: absolute;
+    bottom: 30px;
+    right: 0;
+    margin-right: 10px;
+}
+
+.historia-hero__content {
+    display: flex;
+    background-color: #00000028;
+    box-shadow: 0px 0px 5px 0px #7a7a7a;
+    color: rgb(80, 80, 80);
+    font-size: 14px;
+    width: 150px;
+    height: 400px;
+    padding: 0px 50px;
+    overflow: hidden;
+    padding: 10px;
+}
+
+.historia-hero__content > p{
+    font-family: cursive;
+}
+
+.historia-hero__content:hover{
+    box-shadow: 0px 0px 5px 0px #530000;
+}

@@ -1,0 +1,24 @@
+.nome-hero__container{
+    position: absolute;
+    top: 10px;
+    right: 0;
+    margin-right: 10px;
+}
+
+.nome-hero__content{
+    display: flex;
+    box-shadow: 0px 0px 5px 0px #7a7a7a;
+    background-color: #00000028;
+    color: rgb(7, 7, 7);
+    font-size: 28px;
+    width: 150px;
+    height: 40px;
+}
+.nome-hero__content > p{
+    font-family: cursive;
+    margin: auto;
+} 
+
+.nome-hero__content:hover{
+    box-shadow: 0px 0px 5px 0px #530000;
+}
